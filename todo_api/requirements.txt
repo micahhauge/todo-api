@@ -1,0 +1,11 @@
+Flask
+flask-restful
+SQLAlchemy
+marshmallow
+flask_sqlalchemy
+sqlalchemy_utils
+psycopg2
+uuid
+werkzeug
+PyJWT
+functools
